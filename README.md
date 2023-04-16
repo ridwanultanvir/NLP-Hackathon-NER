@@ -1,6 +1,6 @@
 # nlp_hackathon_bd_2023
 
-Full Report: [Report_Bangla_NER.pdf](Report_Bangla_NER.pdf)
+Full Report: [Report_Bangla_NER.pdf](Report/Report_Bangla_NER.pdf)
 
 ## 1. Instructions
 1. Download the data to your computing environment from https://github.com/cryptexcode/nlp_hackathon_bd_2023
